@@ -1,10 +1,7 @@
-.gap {
-  border: 1px solid grey;
-  padding: 2px;
+.gap-style {
+  border: 1px solid black;
   display: inline-block;
-  margin: 2px;
-}
-
-.gap-active {
-  border-color: blue;
-}
+  /* width: 100px; */
+  /* visibility: hidden; */
+  color: white;
+};
