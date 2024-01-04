@@ -1,0 +1,10 @@
+.gap {
+  border: 1px solid grey;
+  padding: 2px;
+  display: inline-block;
+  margin: 2px;
+}
+
+.gap-active {
+  border-color: blue;
+}
